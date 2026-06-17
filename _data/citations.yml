@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-17'
 papers:
   QPDv7y0AAAAJ:9yKSN-GCB0IC:
     citations: 4
@@ -14,12 +14,16 @@ papers:
     title: AI and Data Science Research in Life Science, System Biology and Medicine
     year: '2025'
   QPDv7y0AAAAJ:UeHWp8X0CEIC:
-    citations: 0
-    title: A Bayesian framework to infer and cluster mutational signatures leveraging prior biological knowledge.
-    year: '2024'
+    citations: 1
+    title: 'BASCULE: bayesian inference and clustering of mutational signatures leveraging biological priors'
+    year: '2025'
   QPDv7y0AAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: 'Protein Language Models: Interpretability and Applications'
+    year: '2026'
+  QPDv7y0AAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: "Decoding the Grammar of Protein\u2013Protein Interaction Interfaces with Multimodal Representations"
     year: '2026'
   QPDv7y0AAAAJ:d1gkVwhDpl0C:
     citations: 5
