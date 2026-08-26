@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-26'
 papers:
   QPDv7y0AAAAJ:9yKSN-GCB0IC:
     citations: 5
     title: Fetal dose estimation for Virtual Tangential-fields Arc Therapy whole breast irradiation by optically stimulated luminescence dosimeters
     year: '2022'
   QPDv7y0AAAAJ:IjCSPb-OGe4C:
-    citations: 20
+    citations: 21
     title: Interpreting and Steering Protein Language Models through Sparse Autoencoders
     year: '2025'
   QPDv7y0AAAAJ:Tyk-4Ss8FVUC:
@@ -14,7 +14,7 @@ papers:
     title: AI and Data Science Research in Life Science, System Biology and Medicine
     year: '2025'
   QPDv7y0AAAAJ:UeHWp8X0CEIC:
-    citations: 1
+    citations: 2
     title: 'BASCULE: bayesian inference and clustering of mutational signatures leveraging biological priors'
     year: '2025'
   QPDv7y0AAAAJ:Y0pCki6q_DkC:
@@ -38,6 +38,6 @@ papers:
     title: CMS Open Data for Education and Outreach
     year: '2017'
   QPDv7y0AAAAJ:u5HHmVD_uO8C:
-    citations: 5
+    citations: 6
     title: Protein family annotation for the Unified Human Gastrointestinal Proteome by DPCfam clustering
     year: '2024'
